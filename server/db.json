@@ -1,0 +1,62 @@
+{
+    "users": [
+        {
+            "id": "0",
+            "name": "Robert",
+            "avatar": {
+                "url": "https://static1.conquistesuavida.com.br/articles//4/56/84/@/18399-as-pessoas-sensiveis-tem-por-caracteris-article_gallery_large-3.jpg"
+            }
+        },
+        {
+            "id": "1",
+            "name": "Carls",
+            "avatar": {
+                "url": "https://www.familia.com.br/wp-content/uploads/2019/12/Pessoas-felizes-n%C3%A3o-t%C3%AAm-tempo-para-criticar-a-vida-dos-outros.jpg"
+            }
+        }
+    ],
+    "posts": [
+        {
+            "id": "0",
+            "userId": "0",
+            "text": "Coisas legais sobre o Flutter que devemos saber mas a gente não sabe pq tem preguiça de estudar"
+        },
+        {
+            "id": "1",
+            "userId": "1",
+            "text": "Coisas legais sobre o Flutter que devemos saber mas a gente não sabe pq tem preguiça de estudar"
+        },
+        {
+            "id": "2",
+            "userId": "0",
+            "text": "Eu sinceramente não gosto de android studio, por favor, utilizem o VSCode, OBRIGADO!"
+        }
+    ],
+    "comments": [
+        {
+            "id": "0",
+            "postId": "0",
+            "text": "Hello"
+        },
+        {
+            "id": "1",
+            "postId": "0",
+            "text": "Hi"
+        },
+        {
+            "id": "2",
+            "postId": "0",
+            "text": "Hi!"
+        },
+        {
+            "id": "3",
+            "postId": "1",
+            "text": "Hi"
+        },
+        {
+            "id": "4",
+            "postId": "1",
+            "text": "Hi!"
+        }
+    ]
+}
